@@ -9,7 +9,7 @@ Files:
 Outputs:
 * submission.csv: File containing predicted house prices for the test dataset.
 
-** Steps to Run the Project **
+**Steps to Run the Project**
 Environment Setup:
 
 Open the project in Google Colab.
